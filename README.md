@@ -1,4 +1,4 @@
-# Hi there, I'm Aaron! 👋
+# Hi there, I'm Aaron! 
 
 I'm an aspiring Full Stack Developer from the Philippines, currently a student and passionate about learning new technologies to build awesome web applications.
 
