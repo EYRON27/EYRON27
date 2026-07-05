@@ -1,4 +1,4 @@
-<img width="1182" height="413" alt="GAME" src="https://github.com/user-attachments/assets/5f4a9cba-f166-43d2-98b6-a3a27eba1df8" /><p align="center">
+<img width="1182" height="413" alt="GAME" /><p align="center">
   <img src="./GAME.PNG" width="100%" />
 </p>
 
