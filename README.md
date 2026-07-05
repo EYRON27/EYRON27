@@ -1,4 +1,4 @@
-<img width="1182" height="413" alt="GAME" /><p align="center">
+<p align="center">
   <img src="./GAME.PNG" width="100%" />
 </p>
 
