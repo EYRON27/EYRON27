@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./GAME.png" width="100%" alt="My Gaming Stats">
+  <img src="./GAME.PNG" width="100%" alt="My Gaming Stats">
 </p>
 
 
