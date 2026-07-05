@@ -1,22 +1,25 @@
-# Hi there 👋
+# Hi there, I'm Aaron! 👋
 
-Welcome to my GitHub profile! I'm a developer who loves building things.
+I'm an aspiring Full Stack Developer from the Philippines, currently a student and passionate about learning new technologies to build awesome web applications.
 
-Here is a breakdown of what I've been coding recently:
+## 👨‍💻 About Me
+
+- 🔭 I’m currently working on **growing my skills in Full Stack Development**
+- 🌱 I’m constantly learning **new tools and frameworks** to improve my craft
+- 📫 How to reach me: **aaroncanada4@gmail.com**
+
+## 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+</p>
+
+## 📊 My Weekly Coding Activity
 
 <!--START_SECTION:waka-->
-
-```txt
-From: 28 June 2026 - To: 05 July 2026
-
-Total Time: 12 hrs 22 mins
-
-TypeScript   7 hrs 21 mins         ██████████████▓░░░░░░░░░░   58.65 %
-Markdown     1 hr 25 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.33 %
-Lua          1 hr 18 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.44 %
-Prisma       54 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.27 %
-C#           35 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
-```
-
 <!--END_SECTION:waka-->
-
