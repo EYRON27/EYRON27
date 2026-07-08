@@ -41,4 +41,17 @@ I'm an aspiring Full Stack Developer from the Philippines, currently a student a
 *(Note: I started tracking my code with WakaTime on June 20, 2026!)*
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 19 June 2026 - To: 07 July 2026
+
+Total Time: 22 hrs 16 mins
+
+TypeScript   14 hrs 16 mins        ███████████████▓░░░░░░░░░   62.65 %
+Markdown     1 hr 43 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 %
+Prisma       1 hr 23 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
+Lua          1 hr 20 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 %
+Bash         1 hr 16 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
+```
+
 <!--END_SECTION:waka-->
