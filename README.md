@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./GAME.PNG" width="100%" />
-</p>
+<img width="1182" height="413" alt="GAME" src="https://github.com/user-attachments/assets/5f4a9cba-f166-43d2-98b6-a3a27eba1df8" />
 
 
 
@@ -38,19 +36,9 @@ I'm an aspiring Full Stack Developer from the Philippines, currently a student a
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
-## 📊 My Weekly Coding Activity (Last 7 Days)
-
-<!--START_SECTION:waka-7-days-->
-<!--END_SECTION:waka-7-days-->
-
 ## 🏆 My All-Time Coding Activity
 
 *(Note: I started tracking my code with WakaTime on June 20, 2026!)*
 
-<!--START_SECTION:waka-all-time-->
-<!--END_SECTION:waka-all-time-->
-
-
-
-
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
