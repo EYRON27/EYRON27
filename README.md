@@ -38,7 +38,6 @@ I'm an aspiring Full Stack Developer from the Philippines, currently a student a
 
 ## 🏆 My All-Time Coding Activity
 
-*(Note: I started tracking my code with WakaTime on June 19, 2026!)*
 
 <!--START_SECTION:waka-->
 
