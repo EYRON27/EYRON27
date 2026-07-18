@@ -42,15 +42,15 @@ I'm an aspiring Full Stack Developer from the Philippines, currently a student a
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 June 2026 - To: 15 July 2026
+From: 19 June 2026 - To: 16 July 2026
 
-Total Time: 30 hrs 36 mins
+Total Time: 31 hrs 22 mins
 
-TypeScript   17 hrs 50 mins        ██████████████▒░░░░░░░░░░   57.06 %
-Lua          4 hrs 29 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.35 %
-Markdown     1 hr 55 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
-JSON         1 hr 55 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 %
-Prisma       1 hr 26 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
+TypeScript   17 hrs 50 mins        ██████████████░░░░░░░░░░░   55.69 %
+Lua          5 hrs 15 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.39 %
+Markdown     1 hr 55 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
+JSON         1 hr 55 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
+Prisma       1 hr 26 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
 ```
 
 <!--END_SECTION:waka-->
