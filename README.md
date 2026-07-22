@@ -36,10 +36,9 @@ I'm an aspiring Full Stack Developer from the Philippines, currently a student a
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
-## 🏆 My All-Time Coding Activity
+## 🏆 My Coding Activity (June 19, 2026 - July 19, 2026)
 
-
-<!--START_SECTION:waka-->
+*(Note: These stats are frozen for the first month I tracked my code!)*
 
 ```txt
 From: 19 June 2026 - To: 19 July 2026
@@ -52,5 +51,3 @@ Markdown                   1 hr 55 mins          █▒░░░░░░░░�
 JSON                       1 hr 55 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
 Bash                       1 hr 45 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
 ```
-
-<!--END_SECTION:waka-->
